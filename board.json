@@ -1,9 +1,16 @@
 [
     {
-      idx:1,
-      subject: "안녕하세요"
-      content: "hi"
-      name: "joo"
-      date: "2022-11-23"
-    }  
+        "idx": 1,
+        "subject": "hello",
+        "content": "world",
+        "name": "KJH",
+        "date": "2022-11-23"
+    },
+    {
+        "idx": 2,
+        "subject": "hello2",
+        "content": "world2",
+        "name": "LSW",
+        "date": "2022-11-23"
+    }
 ]
