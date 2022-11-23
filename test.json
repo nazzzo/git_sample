@@ -1,6 +1,6 @@
 {
     "username": "kimjh",
-    "password" : "root",
+    "password" : "g",
     "database" : "board_test",
     "host" : "127.0.0.1",
     "dialect" : "mysql"
