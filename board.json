@@ -2,5 +2,8 @@
     {
       idx:1,
       subject: "안녕하세요"
+      content: "hi"
+      name: "joo"
+      date: "2022-11-23"
     }  
 ]
