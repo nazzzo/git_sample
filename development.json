@@ -4,4 +4,8 @@
     "database" : "board_dev",
     "host" : "127.0.0.1",
     "dialect" : "mysql"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> parent of 9267079 (Revert "fix: test.json 데이터베이스 내용 수정")
